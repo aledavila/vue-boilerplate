@@ -1,6 +1,5 @@
-# vue-example
+# Vue Boilerplate
 
-> A Vue.js project
 
 ## Build Setup
 
